@@ -1,0 +1,4 @@
+
+
+# Installing Flask-Script
+pip install Flask-Script
